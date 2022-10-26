@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.Random;
-
 public class M_Arrays {
   public static void main(String[] args){
     int[][] multiDimArray = new int[5][6];
